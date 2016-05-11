@@ -38,7 +38,7 @@ Congratulations! You cloned the project on c9.io. You will see this Readme file 
 3. Change the name "surender" in line 42 of index.html with your own name.
 4. Press "Run" in the toolbar to start the Apache web server.
 5. Notice the URL shown in the console below when the application runs.
->> Starting Apache httpd, serving https://ics-final-2016-surendermohan.c9users.io/index.html.
+>> Starting Apache httpd, serving https://ics-final-2016-Angedd.c9users.io/index.html.
 6. Your mobile web application is now live at this web site. You can verify it in your browser.
 7. You should be able to access this URL (e.g. https://ics-final-2016-surendermohan.c9users.io) from your mobile phone also.
 
